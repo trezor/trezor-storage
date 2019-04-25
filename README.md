@@ -1,3 +1,9 @@
+# Deprecated
+
+We've moved to monorepo [trezor-firmware](https://github.com/trezor/trezor-firmware). Please file all issues and Pull Requests there.
+
+----
+
 # Trezor Storage
 
 This repository contains the implementation of Trezor's internal storage, which is common for both trezor-mcu (Trezor One) and trezor-core (Trezor T). This README also contains a detailed description of the cryptographic design.
